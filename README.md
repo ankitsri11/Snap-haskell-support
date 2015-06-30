@@ -10,6 +10,9 @@ main = putStrLn "hello, world"
 Once you have Haskell code added, you can add the repo to Snap-CI and can follow below steps to install Haskell and run your helloworld file on Snap-CI:
 
 > sudo yum install epel-release
+
 > sudo yum install -y haskell-platform
+
 > ghc --make helloworld
+
 > ./helloworld
