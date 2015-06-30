@@ -5,7 +5,7 @@ Create a simple hs file and run it on Snap-CI
 
 For example, I have created a smaple file "helloworld.hs" which has below code
 
-main = putStrLn "hello, world" 
+> main = putStrLn "hello, world" 
 
 Once you have Haskell code added, you can add the repo to Snap-CI and can follow below steps to install Haskell and run your helloworld file on Snap-CI:
 
