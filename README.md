@@ -1,8 +1,6 @@
 # Snap-haskell-support
 Run Haskell helloworld code on Snap-CI
 
-Create a simple hs file and run it on Snap-CI
-
 For example, I have created a smaple file "helloworld.hs" which has below code
 
 > main = putStrLn "hello, world" 
